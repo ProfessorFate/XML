@@ -1,0 +1,10 @@
+<company>
+	<userList>
+		<customer name =  "Quentin" lastname = "Tarantino" age = "57"/>
+		<customer name = "Christopher" lastname = "Nolan" age=  "50"/>
+		<customer name =  "Clint " lastname = "Eastwood" age= "90"/>
+		<customer name = "David " lastname = "Fincher" age = "58"/>
+		<customer name = "Jean-Paul" lastname = "Belmondo" age = "87"/>
+		<customer name = "Adriano" lastname = "Celentano" age = "83"/>
+	</userList>
+</company>
